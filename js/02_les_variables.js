@@ -2,7 +2,7 @@
     // okay js
 // );
 
-// Lorsque l'on a besoinde stocker une information on utilise une variable. Une variable peut être interpréter comme une boite dans laquelle nous allons stocker une information.
+// Lorsque l'on a besoin de stocker une information on utilise une variable. Une variable peut être interpréter comme une boite dans laquelle nous allons stocker une information.
 
 // IL EXISTE PLUSIEURS TYPE DE VARIABLE
 
